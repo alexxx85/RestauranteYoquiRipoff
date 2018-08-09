@@ -1,0 +1,27 @@
+placeholder (html)
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yoqui</title>
+
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/general.css">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/fonts.css">
+</head>
+<body>
+
+	<div class="container">
+		<div class="navbar">
+			<ul>
+				<li><a href="#">INICIO</a></li>
+				<li><a href="#">FOTOS</a></li>
+				<li><a href="#">UBICACIÓN</a></li>
+				<li><a href="#">RESERVAS</a></li>
+			</ul>
+		</div>
+	</div>
+
+</body>
+</html>

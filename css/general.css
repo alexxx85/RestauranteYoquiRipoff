@@ -1,0 +1,20 @@
+body {
+	background: #2C2723;
+}
+
+#navbar {
+	text-align: center;
+	word-spacing: 20px;
+	background-color: #F84B00;
+	padding: 20px;
+	position: sticky;
+}
+
+#navbar a {
+	color: #555555;
+	transition: color 300ms;
+}
+
+#navbar a:hover {
+	color: #FFFFFF;
+}

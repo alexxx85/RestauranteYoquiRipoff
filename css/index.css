@@ -1,0 +1,27 @@
+#content {
+	text-align: center;
+	background: #FFFFFF;
+	margin: 0px 240px;
+	padding-top: 30px;
+}
+
+#content p {
+	font-family: Raleway;
+	color: #4f4f4f;
+}
+
+#content h2 {font-family: Raleway;
+	color: #F84B00;
+}
+
+#bienvenida {
+	padding: 120px;
+}
+
+#ubicacion {
+	padding: 120px;
+}
+
+#servicios {
+	padding: 120px;
+}
